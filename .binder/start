@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pip install gdown
+gdown --folder --id 1Wu-AU2-l8yEufXliD499WIiDP_0jcKlw
+
+exec "$@"
