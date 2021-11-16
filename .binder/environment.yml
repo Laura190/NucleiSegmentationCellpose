@@ -93,5 +93,4 @@ dependencies:
     - torch-optimizer==0.3.0
     - tqdm==4.62.3
     - urllib3==1.26.7
-    - napari[all]==0.4.2
 prefix: /home/laura/miniconda3/envs/cellpose
